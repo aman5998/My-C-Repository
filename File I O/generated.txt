@@ -1,0 +1,4 @@
+The number is 867,
+thanks for using fprintf
+Hi, There i am learning c programming language file handling topic for first time in whole life
+And i am happy because i learn new things today

@@ -13,9 +13,10 @@ int main()
     char x; // For do while loop
     char you, comp;
     int result, askround, round; //
-    int mycount = 0, compcount = 0, drawcount = 0;
     do
     {
+        int mycount = 0, compcount = 0, drawcount = 0;
+
         system("cls");       // For clear the console
         system("Color  70"); // Responsible for colorful console
 
@@ -101,7 +102,7 @@ int main()
         system("Color  70");
 
         printf("\n\t\t<--Rock-Paper-Scissor-->\n");
-        
+
         printf("\nYour total points = %d\n", mycount);
         printf("Computer total points = %d\n", compcount);
         printf("Total Draw = %d\n\n", drawcount);
